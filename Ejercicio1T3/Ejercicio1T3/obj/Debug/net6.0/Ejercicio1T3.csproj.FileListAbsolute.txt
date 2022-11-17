@@ -1,0 +1,15 @@
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\bin\Debug\net6.0\Ejercicio1T3.exe
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\bin\Debug\net6.0\Ejercicio1T3.deps.json
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\bin\Debug\net6.0\Ejercicio1T3.runtimeconfig.json
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\bin\Debug\net6.0\Ejercicio1T3.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\bin\Debug\net6.0\Ejercicio1T3.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\Ejercicio1T3.csproj.AssemblyReference.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\Ejercicio1T3.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\Ejercicio1T3.AssemblyInfoInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\Ejercicio1T3.AssemblyInfo.cs
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\Ejercicio1T3.csproj.CoreCompileInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\Ejercicio1T3.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\refint\Ejercicio1T3.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\Ejercicio1T3.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\Ejercicio1T3.genruntimeconfig.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\EjerciciosT3\Ejercicio1T3\Ejercicio1T3\obj\Debug\net6.0\ref\Ejercicio1T3.dll

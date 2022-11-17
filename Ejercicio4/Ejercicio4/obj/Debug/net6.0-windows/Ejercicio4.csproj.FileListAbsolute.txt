@@ -1,0 +1,17 @@
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\bin\Debug\net6.0-windows\Ejercicio4.exe
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\bin\Debug\net6.0-windows\Ejercicio4.deps.json
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\bin\Debug\net6.0-windows\Ejercicio4.runtimeconfig.json
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\bin\Debug\net6.0-windows\Ejercicio4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\bin\Debug\net6.0-windows\Ejercicio4.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.csproj.AssemblyReference.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.Form1.resources
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.csproj.GenerateResource.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.AssemblyInfoInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.AssemblyInfo.cs
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.csproj.CoreCompileInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\refint\Ejercicio4.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\Ejercicio4.genruntimeconfig.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\1 EVALUACION\Ejercicios\WindowsForms\Ejercicio4\Ejercicio4\obj\Debug\net6.0-windows\ref\Ejercicio4.dll
