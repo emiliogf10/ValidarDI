@@ -1,0 +1,14 @@
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\bin\Debug\Prueba.exe.config
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\bin\Debug\Prueba.exe
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\bin\Debug\Prueba.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.csproj.AssemblyReference.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.csproj.SuggestedBindingRedirects.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.Properties.Resources.resources
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.csproj.GenerateResource.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.csproj.CoreCompileInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.exe
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\bin\Debug\Ejercicio2.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\bin\Debug\Ejercicio2.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.Form1.resources
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio2\Prueba\obj\Debug\Prueba.csproj.CopyComplete

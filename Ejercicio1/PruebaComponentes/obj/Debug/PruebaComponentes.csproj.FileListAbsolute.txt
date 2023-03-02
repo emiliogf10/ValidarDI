@@ -1,0 +1,14 @@
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.csproj.AssemblyReference.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.csproj.SuggestedBindingRedirects.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.Form1.resources
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.Properties.Resources.resources
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.csproj.GenerateResource.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.csproj.CoreCompileInputs.cache
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\bin\Debug\PruebaComponentes.exe.config
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\bin\Debug\PruebaComponentes.exe
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\bin\Debug\PruebaComponentes.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\bin\Debug\Ejercicio1.dll
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\bin\Debug\Ejercicio1.pdb
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.csproj.CopyComplete
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.exe
+E:\SEGUNDO DAM\EVALUACION 1\Desarrollo de interfaces\2 EVALUACION\Creacion_de_componentes\Ejercicio1\PruebaComponentes\obj\Debug\PruebaComponentes.pdb
